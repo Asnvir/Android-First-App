@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">First-App</string>
+    <string name="name">Artur Kopytin</string>
+    <string name="city">Netanya</string>
+    <string name="age">25</string>
+    <string name="number">320878663</string>
+</resources>
